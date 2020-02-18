@@ -1,5 +1,5 @@
 fx_version 'adamant'
-games 'gta5'
+games {'gta5'}
 
 client_scripts {
 	'locale.lua',
